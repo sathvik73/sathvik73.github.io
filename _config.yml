@@ -5,37 +5,37 @@ title: "Gaddala Sathvik"
 title_separator: "-"
 name: &name "Gaddala Sathvik"
 description: &description "Computer Science Undergraduate | ML Enthusiast | Software Engineer"
-url: "https://academicpages.github.io"
+url: "https://sathvik73.github.io"
 baseurl: ""
-repository: "academicpages/academicpages.github.io"
+repository: "sathvik73/sathvik73.github.io"
 
 # Site Author
 author:
   avatar: "profile.png"
   name: "Gaddala Sathvik"
-  pronouns:
-  bio: "B.Tech CSE @ IIITM Gwalior | Intern @ Google | AI, Go, and Angular Dev"
+  pronouns: "he/him"
+  bio: "B.Tech CSE @ IIITM Gwalior | SWE Intern @ Google"
   location: "India"
   employer: "ABV-IIITM Gwalior"
   uri:
   email: "gsathvik999@gmail.com"
 
   # Academic websites
-  googlescholar: "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  orcid: "http://orcid.org/yourorcidurl"
-  pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # googlescholar: "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  # orcid: "http://orcid.org/yourorcidurl"
+  # pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 
   # Repositories and software development
   github: "sathvik73"
   stackoverflow: # optional
 
   # Social media
-  linkedin: "in/gaddala-sathvik"
+  linkedin: "gaddala-sathvik"
   twitter: # optional
   facebook:
   instagram:
   youtube:
-  bluesky: "bsky.app"
+  # bluesky: "bsky.app"
 
 # Publication Category
 publication_category:
