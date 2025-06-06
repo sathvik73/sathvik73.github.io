@@ -1,152 +1,190 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
+    "name": "Gaddala Sathvik",
+    "email": "gsathvik999@gmail.com",
+    "phone": "+91 6281613490",
     "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "summary": "B.Tech CSE @ IIITM Gwalior | Intern @ Google | Passionate about AI, Go, Angular, and Deep Learning.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Gwalior",
+      "countryCode": "IN",
+      "region": "Madhya Pradesh"
     },
     "profiles": [
       {
+        "network": "LinkedIn",
+        "username": "gaddala-sathvik",
+        "url": "https://www.linkedin.com/in/gaddala-sathvik/"
+      },
+      {
+        "network": "GitHub",
+        "username": "sathvik73",
+        "url": "https://github.com/sathvik73"
+      },
+      {
         "network": "Google Scholar",
-        "username": "",
         "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
       },
       {
         "network": "ORCID",
-        "username": "",
         "url": "http://orcid.org/yourorcidurl"
       },
       {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "network": "Codeforces",
+        "username": "sathvik_666",
+        "url": "https://codeforces.com/profile/sathvik_666"
+      },
+      {
+        "network": "Codechef",
+        "username": "freakinturkey",
+        "url": "https://www.codechef.com/users/freakinturkey"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "name": "Google",
+      "location": "Bangalore, India",
+      "position": "Software Engineering Intern",
+      "startDate": "2025-05",
+      "summary": "Interned with the AstroDash team and worked on performance profiling and frontend visualizations.",
+      "highlights": [
+        "Added memory budget profiling feature to AstroDash.",
+        "Built Angular frontend to visualize memory distribution trees with summarization.",
+        "Implemented Go backend services to handle protocol buffer memory data."
+      ]
+    },
+    {
+      "name": "Amazon ML Summer School",
+      "location": "Remote",
+      "position": "Mentee",
+      "startDate": "2024-07",
+      "summary": "Participated in ML training sessions with Amazon scientists, covering core algorithms and applied use cases."
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "ABV-Indian Institute of Information Technology and Management Gwalior",
+      "area": "Computer Science and Engineering",
+      "studyType": "B.Tech",
+      "startDate": "2022-11",
+      "endDate": "2026-06",
       "gpa": null,
-      "courses": []
+      "courses": [
+        "Data Structures and Algorithms",
+        "Object Oriented Programming",
+        "Artificial Intelligence",
+        "Database Management Systems",
+        "Operating Systems"
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "institution": "Sri Chaitanya College, Andhra Pradesh",
+      "area": "Intermediate Education",
+      "studyType": "Board of Intermediate Education",
+      "startDate": "2020-06",
+      "endDate": "2022-06"
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "keywords": ["Python", "Go", "Java", "C/C++", "JavaScript", "MySQL", "SQLite", "HTML/CSS"]
+    },
+    {
+      "name": "Web Development",
+      "keywords": ["Flask", "Django", "Angular"]
+    },
+    {
+      "name": "Machine Learning",
+      "keywords": ["Deep Learning", "NLP", "Image Processing"]
+    },
+    {
+      "name": "Tools",
+      "keywords": ["Git", "VS Code", "Sublime", "GCP", "Linux"]
+    },
+    {
+      "name": "Libraries",
+      "keywords": ["PyTorch", "TensorFlow", "NumPy", "Pandas", "Matplotlib", "SQLAlchemy"]
+    }
+  ],
+  "languages": [
+    { "language": "English", "fluency": "Fluent" },
+    { "language": "Telugu", "fluency": "Native" },
+    { "language": "Hindi", "fluency": "Fluent" }
+  ],
+  "interests": [
+    { "name": "Competitive Programming" },
+    { "name": "System Design" },
+    { "name": "Generative Art" }
+  ],
   "references": [],
-  "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
+  "publications": [],
+  "presentations": [],
+  "teaching": [],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "name": "RateHub",
+      "category": "Web App",
+      "date": "2023-12",
+      "url": "https://github.com/sathvik73/RateHub",
+      "description": "A full-stack rating/commenting web app using Flask and MySQL."
+    },
+    {
+      "name": "Dark-Deblur",
+      "category": "Deep Learning",
+      "date": "2024-07",
+      "url": "https://github.com/sathvik73/Dark-Deblur",
+      "description": "Image deblurring in low-light conditions using custom CNN architectures."
+    },
+    {
+      "name": "Generative Artistry",
+      "category": "GANs",
+      "date": "2024-06",
+      "url": "https://github.com/sathvik73/Generative-Artistry",
+      "description": "GAN-based art generation using TensorFlow and CNNs."
+    }
+  ],
+  "awards": [
+    {
+      "title": "NTSE Stage-1 Qualifier",
+      "date": "2019-11",
+      "awarder": "NCERT",
+      "summary": "Achieved State Rank 11 in the National Talent Search Examination."
+    },
+    {
+      "title": "CodeChef Global Contest Ranks",
+      "date": "2024-05",
+      "awarder": "CodeChef",
+      "summary": "1800+ rating, global rank 22 in May 2024 and 143 in June 2023."
+    },
+    {
+      "title": "Expert",
+      "date": "2024-06",
+      "awarder": "Codeforces",
+      "summary": "Earned Expert rating on Codeforces."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Google Cloud Skill Boost",
+      "url": "https://www.cloudskillsboost.google/public_profiles/5cc179e5-6365-4cdf-8525-1107896eda4c"
+    },
+    {
+      "name": "Machine Learning Specialization",
+      "issuer": "Stanford & DeepLearning.AI",
+      "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/QFHA77VZ8WE8"
+    },
+    {
+      "name": "Intro to Machine Learning on AWS",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/ER6T7L8MH8XY"
+    },
+    {
+      "name": "SQL for Data Science",
+      "issuer": "UC Davis",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/P9PHQSJXMRGR"
     }
   ]
 }
